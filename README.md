@@ -1,6 +1,7 @@
 # Object_det_frcnn
 A PyTorch implementation of  'Occlusion Object detection using Faster R-CNN’
 
+**Jupyter Notebook Code (object-detection-2.ipynb)**
 
 ### Preparation
 
