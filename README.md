@@ -15,4 +15,6 @@ A PyTorch implementation of  'Occlusion Object detection using Faster R-CNN’
 
 ### Train and Test
 
-4.Requirements are commented in the code in order to train and test.
+###4.You may need to run "python3 engine.py install" before training.
+
+5.Requirements are commented in the code in order to train and test.
